@@ -58,7 +58,7 @@ Once you're ready to submit your script for review, here's what you'll need to d
 Below are the scripts available to use in Remote Falcon.
 
 ## Make It Snow
-This script will make it snow on your viewer page!
+This script adds falling holiday visuals (Christmas trees and reindeers) to your viewer page.
 Nothing special needs to be done to use this script.
 There is a toggle on Remote Falcon Settings -> Viewer Page that will enable and disable this script.
 
